@@ -1,6 +1,7 @@
-<img width="1335" height="737" alt="image-1" src="https://github.com/user-attachments/assets/08fc8e94-6212-4d4f-af03-7c8ec1f69234" /># Customer Churn Analysis & Prediction
+# Customer Churn Analysis & Prediction
 
 An end-to-end data analytics project built using SQL, Power BI, Python, and machine learning.
+
 
 
 ## Overview
