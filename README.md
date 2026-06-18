@@ -1,9 +1,7 @@
-# Customer Churn Analysis & Prediction
+<img width="1335" height="737" alt="image-1" src="https://github.com/user-attachments/assets/08fc8e94-6212-4d4f-af03-7c8ec1f69234" /># Customer Churn Analysis & Prediction
 
 An end-to-end data analytics project built using SQL, Power BI, Python, and machine learning.
 
-## Dashboard Preview
- ![alt text](image.png)
 
 ## Overview
 
@@ -57,17 +55,18 @@ Customer Churn Predictions
 
 ## Dashboard Preview
 
-### Customer Churn Overview
+### Customer Churn Summary
 
-![alt text](image-1.png)
+<img width="1335" height="737" alt="image-1" src="https://github.com/user-attachments/assets/17769780-3a50-4ab1-bd85-a5e29deb7430" />
 
 ### Churn Reason Analysis
 
-![alt text](image-2.png)
+<img width="421" height="305" alt="image-2" src="https://github.com/user-attachments/assets/579cb57b-7cf6-49c7-9fd4-1be6d9d9404a" />
 
 ### Churn Prediction Dashboard
 
-*![alt text](image-3.png)
+<img width="966" height="532" alt="image-3" src="https://github.com/user-attachments/assets/1eca51bc-e205-40db-a561-8ad151c3382c" />
+
 
 ---
 
